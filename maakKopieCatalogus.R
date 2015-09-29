@@ -112,8 +112,10 @@ decnum[decsgn == "-"] = -1 * decnum[decsgn == "-"]
 C$ra = ranum
 C$dec = decnum
 
-# bestand schrijven als csv met ; als scheidingsteken
-write.table(C, file = "oec_vvs.csv", quote = FALSE, sep = ";", dec = ",", row.names = FALSE, col.names = TRUE)
+# bestand schrijven als csv met ; als scheidingsteken voor excel
+write.table(C, file = "oec_vvs_excel.csv", quote = FALSE, sep = ";", dec = ",", row.names = FALSE, col.names = TRUE, na = "")
 
+# voor plotly:
+write.table(C, file = "oec_vvs_plotly.csv", quote = FALSE, sep = ",", dec = ".", row.names = FALSE, col.names = TRUE, na = "")
 
 
