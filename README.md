@@ -6,3 +6,11 @@ We analyseren een catalogus met alle tot nu toe ontdekte exoplaneten. Voor deze 
 
 Deze selectie uit de catalogus is [beschikbaar binnen plot.ly](https://plot.ly/~bbuelens/71).
 
+De kolommen zijn gedefineerd als volgt.
+
+| kolom | eenheid | verklaring |
+| ----- | ------- | ---------- |
+| plntid | n.a. | naam van de planeet |
+| binary | n.a. | 1: bij dubbelster, 0: bij enkelvoudige ster |
+
+
