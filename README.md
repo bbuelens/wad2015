@@ -10,14 +10,16 @@ De kolommen in deze bestanden zijn gedefineerd als volgt.
 
 | kolom | eenheid | verklaring |
 | ----- | ------- | ---------- |
-| plntid | n.a. | naam van de planeet |
-| binary | n.a. | 1: bij dubbelster, 0: bij enkelvoudige ster |
+| plntid | n.v.t. | naam van de planeet |
+| binary | n.v.t. | 1: bij dubbelster, 0: bij enkelvoudige ster |
 
 #### Opdrachten & oplossingen
 De opdrachten voor de workshop zijn beschikbaar in dit bestand. De oplossingen worden hier later beschikbaar gemaakt.
 
 #### Contact & info
 Bart Buelens
+
 bbuelens -at- gmail -punt- com
+
 www.astrostatistics.org
 
