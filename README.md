@@ -1,12 +1,13 @@
 ### Workshop Astronomische Data - VVS Weekend 2015
 Zondag 4 oktober 2015, Blankenberge
 ## Exoplaneten
+We analyseren een catalogus met alle tot nu toe ontdekte exoplaneten: de [Open Exoplanet Catalogue](http://www.openexoplanetcatalogue.com/).
 
 #### Bestanden
-We analyseren een catalogus met alle tot nu toe ontdekte exoplaneten. Voor deze workshop zijn de belangrijkste kenmerken van de exoplaneten al geselecteerd. Dezelfde gegevens zijn beschikbaar in verschillende bestanden: 
+Voor deze workshop is de catalogus al gedownload en zijn de belangrijkste kenmerken van de exoplaneten al geselecteerd. Verschillende bestanden zijn beschikbaar, ze bevatten allemaal dezelfde gegevens: 
 
 - voor gebruik in Excel: [oec_vvs_excel.xlsx](https://github.com/bbuelens/wad2015/raw/master/oec_vvs_excel.xlsx)
-- als tekstbestand: met decimaal punt [oec_vvs_plotly.csv], met decimale komma [oec_vvs_excel.csv]
+- als tekstbestand: met decimaal punt [oec_vvs_punt.csv](https://github.com/bbuelens/wad2015/raw/master/oec_vvs_punt.csv), met decimale komma [oec_vvs_komma.csv](https://github.com/bbuelens/wad2015/raw/master/oec_vvs_komma.csv)
 - in plot.ly kan je het bestand direct vinden via [deze link](https://plot.ly/~bbuelens/71), kies vervolgens 'fork and edit' om ermee te werken
 
 De kolommen in deze bestanden zijn gedefineerd als volgt.
