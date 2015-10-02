@@ -12,6 +12,22 @@ De kolommen in deze bestanden zijn gedefineerd als volgt.
 | ----- | ------- | ---------- |
 | plntid | n.v.t. | naam van de planeet |
 | binary | n.v.t. | 1: bij dubbelster, 0: bij enkelvoudige ster |
+| plntmass | Jupitermassa's | massa van de planeet
+| plntradius | Jupiterstralen | straal van de planeet
+| period | dagen | periode
+| smaxis | astronomische eenheden | halve grote as van de baan
+| plnttemp | Kelvin | oppervlaktetemperatuur van planeet 
+| plntage | gigajaren | leeftijd van planeet
+| discmeth | n.v.t. | ontdekkingsmethode 
+| discyear | jaartal | jaar van ontdekking
+| ra | dec graden | rechte klimming
+| dec | dec graden | declinatie 
+| distsun | parsec | afstand vanaf onze zon 
+| strmass | zonmassa's | massa van de ster 
+| strradius | zonstralen | straal van de ster
+| strmetal | log relatief tov zon | metalliciteit 
+| strtemp | Kelvin | temperatuur van de ster
+| strage | gigajaren | leeftijd van de ster
 
 #### Opdrachten & oplossingen
 De opdrachten voor de workshop zijn beschikbaar in dit bestand. De oplossingen worden hier later beschikbaar gemaakt.
