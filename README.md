@@ -35,12 +35,9 @@ De kolommen in deze bestanden zijn gedefineerd als volgt.
 | inhabitzone | n.v.t. | planeet in bewoonbare zone van ster (1) of niet (0) |
 
 #### Opdrachten & oplossingen
-De opdrachten voor de workshop zijn beschikbaar in dit bestand. De oplossingen worden hier later beschikbaar gemaakt.
+De opdrachten voor de workshop zijn beschikbaar in [dit pdf bestand](https://github.com/bbuelens/wad2015/raw/master/opdrachten.pdf). De oplossingen worden later beschikbaar gemaakt op deze website.
 
 #### Contact & info
 Bart Buelens
-
 bbuelens -at- gmail -punt- com
-
 www.astrostatistics.org
-
