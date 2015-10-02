@@ -1,6 +1,6 @@
 # Opdrachten en oplossingen
 
-C = read.table(file="oec_vvs_excel.csv", sep = ";", dec = ",",header = TRUE,na.strings = "NA")
+C = read.table(file="oec_vvs_komma.csv", sep = ";", dec = ",",header = TRUE,na.strings = "NA")
 
 ### afstanden: meest dichtbije
 min(C$distsun, na.rm = TRUE) # parsec
@@ -42,7 +42,7 @@ planeten = c("Mercury", "Venus", "Earth", "Mars", "Jupiter", "Saturn",
 C$zonnestelsel[C$plntid %in% planeten] = TRUE
 xtabs(~zonnestelsel,C)
 ggplot(C, aes(log(plntmass), log(period), colour=zonnestelsel)) +
-   geom_point(size=3.5, alpha=0.4) + 
+   geom_point(size=5, alpha=0.4) + 
    geom_point(data = subset(C, zonnestelsel), aes(log(plntmass), log(period)), size=1, colour=I("black")) 
 
 
