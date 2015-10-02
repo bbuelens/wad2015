@@ -38,6 +38,4 @@ De kolommen in deze bestanden zijn gedefineerd als volgt.
 De opdrachten voor de workshop zijn beschikbaar in [dit pdf bestand](https://github.com/bbuelens/wad2015/raw/master/opdrachten.pdf). De oplossingen worden later beschikbaar gemaakt op deze website.
 
 #### Contact & info
-Bart Buelens
-bbuelens -at- gmail -punt- com
-www.astrostatistics.org
+Bart Buelens | bbuelens -at- gmail -punt- com | www.astrostatistics.org
