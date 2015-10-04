@@ -1,5 +1,8 @@
 ### Workshop Astronomische Data - VVS Weekend 2015
 Zondag 4 oktober 2015, Blankenberge
+
+#### De presentatie bij de workshop: [https://speakerdeck.com/bbuelens/workshop-astronomische-data-exoplaneten](https://speakerdeck.com/bbuelens/workshop-astronomische-data-exoplaneten)
+
 ## Exoplaneten
 We analyseren een catalogus met alle tot nu toe ontdekte exoplaneten: de [Open Exoplanet Catalogue](http://www.openexoplanetcatalogue.com/).
 
